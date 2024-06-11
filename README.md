@@ -2,12 +2,6 @@
 
 This project implements a RESTful API'S using Node.js with Express, designed to manage an inventory system, customer carts, and discount coupons. Below is a concise guide to understanding the core functionalities of this API, including various endpoints and their descriptions.
 
-#### Index.js
-
-- **Setup:** The main entry point for the server.
-- **Middleware:** Utilizes body-parser and JSON parsing for request body processing.
-- **Routes:** The application integrates the inventory router for handling various inventory-related actions and operations.
-
 ### Important Note
 
 These APIs are deployed using Vercel and can be explored and tested directly via the comprehensive documentation on Postman:
@@ -16,12 +10,9 @@ These APIs are deployed using Vercel and can be explored and tested directly via
 - [Exportd Postman collection link](https://elements.getpostman.com/redirect?entityId=32461181-893a1dee-fbd4-4114-acd8-30cde9ad8734&entityType=collection)
 
 - [API Documentation on Postman](https://documenter.getpostman.com/view/32461181/2sA3XMjP7u)
-  
+
 
 ---
-
-Feel free to use this information to guide users on how to interact with and explore the API!
-
 
 ### Considerations for Edge Cases
 
