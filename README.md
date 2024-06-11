@@ -15,7 +15,7 @@ These APIs are deployed using Vercel and can be explored and tested directly via
 
 - [Exportd Postman collection link](https://elements.getpostman.com/redirect?entityId=32461181-893a1dee-fbd4-4114-acd8-30cde9ad8734&entityType=collection)
 
-- - [API Documentation on Postman](https://documenter.getpostman.com/view/32461181/2sA3XMjP7u)
+- [API Documentation on Postman](https://documenter.getpostman.com/view/32461181/2sA3XMjP7u)
   
 
 ---
