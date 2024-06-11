@@ -1,0 +1,1 @@
+git inventory_assignment
