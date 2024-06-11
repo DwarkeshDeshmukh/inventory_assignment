@@ -34,6 +34,9 @@ This router offers various functionalities to manage inventory, carts, and disco
 These APIs are deployed using Vercel and can be explored and tested directly via the comprehensive documentation on Postman:
 
 - [API Documentation on Postman](Your_Postman_Documentation_Link_Here)
+  
+- [Exportd Postman collection link](https://elements.getpostman.com/redirect?entityId=32461181-893a1dee-fbd4-4114-acd8-30cde9ad8734&entityType=collection)
+  
 
 ---
 
