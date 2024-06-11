@@ -14,20 +14,31 @@ This router offers various functionalities to manage inventory, carts, and disco
 
 ### Demonstrating the Application Flow
 
-1. **Add Items to Inventory:**
+1. Add Items to Inventory:
    - Add a few products with specific quantities to the inventory using the `/add-item-to-inventory` endpoint.
+     
+2. Remove Items from Inventory:
+   - Remove items from the inventory using the `/remove-item-from-inventory` endpoint.
 
-2. **Add Items to Cart:**
-   - Add products to a customer’s cart using the `/add-item-to-cart` endpoint, specifying the product ID and quantity.
+3. Add Items to Cart:
+   - Add products to a customer’s cart using the `/add-item-to-cart` endpoint.
 
-3. **Apply Discount:**
-   - Apply a discount coupon to the cart using the `/apply-discount` endpoint, specifying the cart value and the discount coupon ID.
-
-4. **Remove Items from Inventory:**
-   - Remove items from the inventory using the `/remove-item-from-inventory` endpoint, specifying the product ID and quantity.
-
-5. **Add Discount Coupon:**
+4. Apply Discount:
+   - Apply a discount coupon to the cart using the `/apply-discount` endpoint.
+     
+5. Add Discount Coupon:
    - Add a new discount coupon using the `/add-coupon-code` endpoint.
+
+### Important Note
+
+These APIs are deployed using Vercel and can be explored and tested directly via the comprehensive documentation on Postman:
+
+- [API Documentation on Postman](Your_Postman_Documentation_Link_Here)
+
+---
+
+Feel free to use this information to guide users on how to interact with and explore the API!
+
 
 ### Considerations for Edge Cases
 
