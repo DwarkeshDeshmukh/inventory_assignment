@@ -8,6 +8,15 @@ app.use(express.json());
 app.use(express.urlencoded({extended: true}));
 app.use(bodyParser.json());
 
+app.get("/",(req, res)=>{
+    
+    res.json({
+        success:true,
+        message:"Express Server is working"
+    })
+
+})
+
 app.use('/',inventory);
 
 const PORT = 3000;
